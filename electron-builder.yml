@@ -1,5 +1,5 @@
 appId: 'hobackTown'
-productName: '호백타운2'
+productName: '호백타운'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
